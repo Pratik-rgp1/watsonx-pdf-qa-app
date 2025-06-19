@@ -1,0 +1,1 @@
+# Pratik-rgp1-watsonx-pdf-qa-app
